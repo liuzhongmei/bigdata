@@ -1,0 +1,1090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8737b16e-f0d7-48df-a911-e98ed58fbacc" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itstaredu/hbase/HbaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="173" selection-start-line="173" selection-end-line="173" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itstaredu/hbasemr/WriteLoveReducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itstaredu/hbasemr/LoveDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#run#0;class#LoveDriver#0" />
+                <element signature="e#1424#1425#0" expanded="true" />
+                <element signature="e#1492#1493#0" expanded="true" />
+                <element signature="e#1530#1531#0" expanded="true" />
+                <element signature="e#1562#1563#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-common/1.3.0/hbase-common-1.3.0.jar!/org/apache/hadoop/hbase/HBaseConfiguration.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-server/1.3.0/hbase-server-1.3.0.jar!/org/apache/hadoop/hbase/mapreduce/TableReducer.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itstaredu/hbasemr/ReadLoveMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstaredu/hbase/HbaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstaredu/hbasemr/RearLoveMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstaredu/hbasemr/LoveDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itstaredu/hbasemr/WriteLoveReducer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="HbaseTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="HbaseTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="HbaseTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="HbaseTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.apache.hbase:hbase-client:1.3.0" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-20" />
+    <option name="y" value="-14" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HbaseTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="HbaseTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.hbase:hbase-common:1.3.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="HbaseTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.hbase:hbase-common:1.3.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="hbase-common-1.3.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HbaseTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.hbase:hbase-common:1.3.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="hbase-common-1.3.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="hbase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HbaseTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.hbase:hbase-server:1.3.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="HbaseTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.hbase:hbase-server:1.3.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="hbase-server-1.3.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HbaseTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.hbase:hbase-server:1.3.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="hbase-server-1.3.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="hbase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HbaseTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.hbase:hbase-server:1.3.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="hbase-server-1.3.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="mapreduce" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550916784195" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\IDEA_workspace\HADOOP\HbaseTest\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LoveDriver">
+    <configuration name="HbaseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itstaredu.hbase.HbaseTest" />
+      <module name="HbaseTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itstaredu.hbase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoveDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itstaredu.hbasemr.LoveDriver" />
+      <module name="HbaseTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itstaredu.hbasemr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoveDriver" />
+        <item itemvalue="Application.HbaseTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8737b16e-f0d7-48df-a911-e98ed58fbacc" name="Default Changelist" comment="" />
+      <created>1550741684025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550741684025</updated>
+      <workItem from="1550741689363" duration="8998000" />
+      <workItem from="1550819493205" duration="3488000" />
+      <workItem from="1550884975462" duration="5020000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17506000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3565077" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Thumbnails" weight="0.32978722" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19148937" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32935154" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32902184" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32983023" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hbase-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-636" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hdfs-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-146">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/core-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.0/hbase-client-1.3.0.jar!/org/apache/hadoop/hbase/HTableDescriptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="112" column="51" lean-forward="true" selection-start-line="112" selection-start-column="51" selection-end-line="112" selection-end-column="51" />
+          <folding>
+            <element signature="e#1866#1873#0" />
+            <element signature="e#3668#3686#0" />
+            <element signature="e#3781#3799#0" />
+            <element signature="e#5922#5940#0" />
+            <element signature="e#6261#6891#0" />
+            <element signature="e#6755#6884#1" />
+            <element signature="e#6897#7869#0" />
+            <element signature="e#7438#7567#1" />
+            <element signature="e#7650#7862#1" />
+            <element signature="e#7875#7893#0" />
+            <element signature="e#7875#8202#0" />
+            <element signature="e#8208#8538#0" />
+            <element signature="e#8544#8562#0" />
+            <element signature="e#8672#8690#0" />
+            <element signature="e#8891#9950#0" />
+            <element signature="e#9363#9508#1" />
+            <element signature="e#9604#9750#1" />
+            <element signature="e#9836#9943#1" />
+            <element signature="e#9956#10096#0" />
+            <element signature="e#10102#10302#0" />
+            <element signature="e#10165#10269#1" />
+            <element signature="e#10425#10586#0" />
+            <element signature="e#10488#10553#1" />
+            <element signature="e#10592#10790#0" />
+            <element signature="e#10796#11008#0" />
+            <element signature="e#11344#11533#0" />
+            <element signature="e#11539#11700#0" />
+            <element signature="e#11706#11841#0" />
+            <element signature="e#11847#12025#0" />
+            <element signature="e#12031#12213#0" />
+            <element signature="e#12219#12777#0" />
+            <element signature="e#12368#12688#1" />
+            <element signature="e#12694#12771#1" />
+            <element signature="e#12783#13026#0" />
+            <element signature="e#12871#12912#1" />
+            <element signature="e#12918#12998#1" />
+            <element signature="e#13431#13561#0" />
+            <element signature="e#13680#13843#0" />
+            <element signature="e#13969#14138#0" />
+            <element signature="e#14144#14329#0" />
+            <element signature="e#14335#15069#0" />
+            <element signature="e#14408#15030#1" />
+            <element signature="e#14519#14587#1" />
+            <element signature="e#14593#15020#1" />
+            <element signature="e#14615#14725#0" />
+            <element signature="e#14764#15006#0" />
+            <element signature="e#15146#15164#0" />
+            <element signature="e#15347#15489#0" />
+            <element signature="e#15600#15618#0" />
+            <element signature="e#15600#15759#0" />
+            <element signature="e#15765#15783#0" />
+            <element signature="e#15765#15944#0" />
+            <element signature="e#15950#16118#0" />
+            <element signature="e#16124#16278#0" />
+            <element signature="e#16284#16464#0" />
+            <element signature="e#16470#16648#0" />
+            <element signature="e#16654#16790#0" />
+            <element signature="e#16895#17455#0" />
+            <element signature="e#17026#17345#1" />
+            <element signature="e#17078#17224#1" />
+            <element signature="e#17230#17335#1" />
+            <element signature="e#17351#17449#1" />
+            <element signature="e#17461#18013#0" />
+            <element signature="e#17595#17903#1" />
+            <element signature="e#17648#17782#1" />
+            <element signature="e#17788#17893#1" />
+            <element signature="e#17909#18007#1" />
+            <element signature="e#18130#18560#0" />
+            <element signature="e#18411#18524#1" />
+            <element signature="e#18566#19044#0" />
+            <element signature="e#18864#19008#1" />
+            <element signature="e#19151#24692#0" />
+            <element signature="e#19459#24686#1" />
+            <element signature="e#19485#24676#1" />
+            <element signature="e#19548#24003#1" />
+            <element signature="e#19573#23967#1" />
+            <element signature="e#19618#23881#1" />
+            <element signature="e#19800#19873#1" />
+            <element signature="e#20065#22597#1" />
+            <element signature="e#20354#21081#1" />
+            <element signature="e#20705#20800#1" />
+            <element signature="e#21140#22567#1" />
+            <element signature="e#21203#21298#1" />
+            <element signature="e#21686#22481#1" />
+            <element signature="e#22052#22155#1" />
+            <element signature="e#22662#23773#1" />
+            <element signature="e#22715#22802#1" />
+            <element signature="e#23118#23695#1" />
+            <element signature="e#23261#23356#1" />
+            <element signature="e#24170#24226#1" />
+            <element signature="e#24232#24662#1" />
+            <element signature="e#24576#24644#1" />
+            <element signature="e#24698#25024#0" />
+            <element signature="e#24759#24795#1" />
+            <element signature="e#24818#24855#1" />
+            <element signature="e#24901#24938#1" />
+            <element signature="e#24944#25018#1" />
+            <element signature="e#25030#25542#0" />
+            <element signature="e#25241#25421#1" />
+            <element signature="e#25346#25411#1" />
+            <element signature="e#25548#25566#0" />
+            <element signature="e#25548#27417#0" />
+            <element signature="e#25706#25808#1" />
+            <element signature="e#25814#27411#1" />
+            <element signature="e#26198#26482#1" />
+            <element signature="e#26660#26823#1" />
+            <element signature="e#26855#27400#1" />
+            <element signature="e#26953#27386#1" />
+            <element signature="e#27423#27441#0" />
+            <element signature="e#27423#28605#0" />
+            <element signature="e#27837#28006#1" />
+            <element signature="e#28129#28240#1" />
+            <element signature="e#28375#28598#1" />
+            <element signature="e#28611#29941#0" />
+            <element signature="e#28737#28815#1" />
+            <element signature="e#28891#28995#1" />
+            <element signature="e#29022#29403#1" />
+            <element signature="e#29200#29393#1" />
+            <element signature="e#29333#29379#1" />
+            <element signature="e#29430#29650#1" />
+            <element signature="e#29531#29575#1" />
+            <element signature="e#29597#29640#1" />
+            <element signature="e#29677#29911#1" />
+            <element signature="e#29792#29836#1" />
+            <element signature="e#29858#29901#1" />
+            <element signature="e#29947#30080#0" />
+            <element signature="e#30193#30409#0" />
+            <element signature="e#30415#30638#0" />
+            <element signature="e#30775#31094#0" />
+            <element signature="e#31100#31243#0" />
+            <element signature="e#31455#31702#0" />
+            <element signature="e#31962#32141#0" />
+            <element signature="e#32147#33426#0" />
+            <element signature="e#32406#33214#1" />
+            <element signature="e#32494#33204#1" />
+            <element signature="e#32617#32728#1" />
+            <element signature="e#32792#32936#1" />
+            <element signature="e#32982#33043#1" />
+            <element signature="e#33432#33886#0" />
+            <element signature="e#33619#33760#1" />
+            <element signature="e#33766#33880#1" />
+            <element signature="e#33892#34109#0" />
+            <element signature="e#34008#34103#1" />
+            <element signature="e#34115#35100#0" />
+            <element signature="e#34207#34243#1" />
+            <element signature="e#34249#35094#1" />
+            <element signature="e#34387#34811#1" />
+            <element signature="e#34664#34797#1" />
+            <element signature="e#35106#35838#0" />
+            <element signature="e#35249#35809#1" />
+            <element signature="e#35514#35799#1" />
+            <element signature="e#35733#35785#1" />
+            <element signature="e#35844#36572#0" />
+            <element signature="e#36017#36542#1" />
+            <element signature="e#36282#36532#1" />
+            <element signature="e#36456#36518#1" />
+            <element signature="e#36578#36819#0" />
+            <element signature="e#36825#37830#0" />
+            <element signature="e#37006#37751#1" />
+            <element signature="e#37271#37741#1" />
+            <element signature="e#37464#37727#1" />
+            <element signature="e#37587#37709#1" />
+            <element signature="e#37780#37823#1" />
+            <element signature="e#37836#37854#0" />
+            <element signature="e#37836#38130#0" />
+            <element signature="e#38136#38154#0" />
+            <element signature="e#38136#38308#0" />
+            <element signature="e#38314#38332#0" />
+            <element signature="e#38314#38590#0" />
+            <element signature="e#38447#38509#1" />
+            <element signature="e#38515#38562#1" />
+            <element signature="e#38596#38614#0" />
+            <element signature="e#38596#38772#0" />
+            <element signature="e#38893#39598#0" />
+            <element signature="e#39045#39147#1" />
+            <element signature="e#39153#39592#1" />
+            <element signature="e#39312#39450#0" />
+            <element signature="e#39476#39549#0" />
+            <element signature="e#39604#39622#0" />
+            <element signature="e#39604#41037#0" />
+            <element signature="e#39911#40330#1" />
+            <element signature="e#40467#40578#1" />
+            <element signature="e#40664#40998#1" />
+            <element signature="e#41043#41061#0" />
+            <element signature="e#41043#42082#0" />
+            <element signature="e#41439#41499#1" />
+            <element signature="e#41691#41843#1" />
+            <element signature="e#41925#42055#1" />
+            <element signature="e#42324#42567#0" />
+            <element signature="e#42420#42474#1" />
+            <element signature="e#42480#42539#1" />
+            <element signature="e#42670#43393#0" />
+            <element signature="initializer##0;class#HTableDescriptor#0" />
+            <element signature="e#44436#44570#1" />
+            <element signature="e#45022#45174#0" />
+            <element signature="e#45200#45257#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.0/hbase-client-1.3.0-sources.jar!/org/apache/hadoop/hbase/client/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="86" column="8" selection-start-line="86" selection-start-column="8" selection-end-line="86" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.0/hbase-client-1.3.0-sources.jar!/org/apache/hadoop/hbase/client/Scan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3564">
+          <caret line="203" column="5" selection-start-line="203" selection-start-column="5" selection-end-line="203" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.0/hbase-client-1.3.0-sources.jar!/org/apache/hadoop/hbase/client/ResultScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.0/hbase-client-1.3.0-sources.jar!/org/apache/hadoop/hbase/client/Put.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2398">
+          <caret line="153" column="13" selection-start-line="153" selection-start-column="13" selection-end-line="153" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.0/hbase-client-1.3.0-sources.jar!/org/apache/hadoop/hbase/HColumnDescriptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6776">
+          <caret line="941" selection-start-line="941" selection-end-line="941" />
+          <folding>
+            <element signature="docComment;class#HColumnDescriptor#0" />
+            <element signature="e#2308#2333#0" />
+            <element signature="e#3551#3802#0" />
+            <element signature="e#4167#4432#0" />
+            <element signature="e#4504#4762#0" />
+            <element signature="e#4848#5051#0" />
+            <element signature="e#5906#5946#0" />
+            <element signature="e#6043#6266#0" />
+            <element signature="e#6331#6376#0" />
+            <element signature="e#6480#6542#0" />
+            <element signature="e#6663#6723#0" />
+            <element signature="e#6946#7044#0" />
+            <element signature="e#7105#7192#0" />
+            <element signature="e#7282#7353#0" />
+            <element signature="e#7414#7520#0" />
+            <element signature="e#7591#7816#0" />
+            <element signature="e#7884#7991#0" />
+            <element signature="e#8063#8143#0" />
+            <element signature="e#8223#8293#0" />
+            <element signature="e#8374#8488#0" />
+            <element signature="e#8561#8614#0" />
+            <element signature="e#8678#8707#0" />
+            <element signature="e#8801#8901#0" />
+            <element signature="e#8974#9052#0" />
+            <element signature="initializer##0;class#HColumnDescriptor#0" />
+            <element signature="e#10941#11027#1" />
+            <element signature="e#11469#11711#0" />
+            <element signature="e#11924#12213#0" />
+            <element signature="e#12405#12654#0" />
+            <element signature="e#12753#13002#0" />
+            <element signature="e#12753#13289#0" />
+            <element signature="e#13293#13481#0" />
+            <element signature="e#13293#13922#0" />
+            <element signature="e#13685#13741#1" />
+            <element signature="e#13812#13875#1" />
+            <element signature="e#13926#15014#0" />
+            <element signature="e#13926#15413#0" />
+            <element signature="e#15417#16763#0" />
+            <element signature="e#15417#17287#0" />
+            <element signature="e#17291#19010#0" />
+            <element signature="e#17291#20609#0" />
+            <element signature="e#19515#19758#1" />
+            <element signature="e#19523#19596#0" />
+            <element signature="e#19785#20081#1" />
+            <element signature="e#19831#19918#1" />
+            <element signature="e#19957#20075#1" />
+            <element signature="e#20613#20991#0" />
+            <element signature="e#20613#21899#0" />
+            <element signature="e#21072#21095#1" />
+            <element signature="e#21197#21324#1" />
+            <element signature="e#21364#21647#1" />
+            <element signature="e#21452#21641#1" />
+            <element signature="e#21762#21881#1" />
+            <element signature="e#21903#21952#0" />
+            <element signature="e#22006#22055#0" />
+            <element signature="e#22137#22195#0" />
+            <element signature="e#22137#22378#0" />
+            <element signature="e#22382#22452#0" />
+            <element signature="e#22382#22620#0" />
+            <element signature="e#22624#22658#0" />
+            <element signature="e#22624#22812#0" />
+            <element signature="e#22816#22922#0" />
+            <element signature="e#22816#23217#0" />
+            <element signature="e#23058#23106#1" />
+            <element signature="e#23221#23307#0" />
+            <element signature="e#23409#23515#0" />
+            <element signature="e#23409#23736#0" />
+            <element signature="e#23603#23644#1" />
+            <element signature="e#23650#23715#1" />
+            <element signature="e#23740#23804#0" />
+            <element signature="e#23740#24023#0" />
+            <element signature="e#23912#23960#1" />
+            <element signature="e#24027#24119#0" />
+            <element signature="e#24027#24346#0" />
+            <element signature="e#24245#24283#1" />
+            <element signature="e#24350#24391#0" />
+            <element signature="e#24350#24619#0" />
+            <element signature="e#24473#24580#1" />
+            <element signature="e#24623#24726#0" />
+            <element signature="e#24623#25440#0" />
+            <element signature="e#24814#25057#1" />
+            <element signature="e#24822#24895#0" />
+            <element signature="e#25103#25316#1" />
+            <element signature="e#25444#25649#0" />
+            <element signature="e#25444#26341#0" />
+            <element signature="e#25751#26009#1" />
+            <element signature="e#25759#25847#0" />
+            <element signature="e#26046#26254#1" />
+            <element signature="e#26345#26421#0" />
+            <element signature="e#26345#26695#0" />
+            <element signature="e#26497#26653#1" />
+            <element signature="e#26699#26845#0" />
+            <element signature="e#26699#26988#0" />
+            <element signature="e#26992#27040#0" />
+            <element signature="e#27131#27444#0" />
+            <element signature="e#27131#27588#0" />
+            <element signature="e#27592#27878#0" />
+            <element signature="e#27993#28397#0" />
+            <element signature="e#28503#28615#0" />
+            <element signature="e#28503#28836#0" />
+            <element signature="e#28739#28788#1" />
+            <element signature="e#28840#29016#0" />
+            <element signature="e#28840#29280#0" />
+            <element signature="e#29130#29167#1" />
+            <element signature="e#29173#29228#1" />
+            <element signature="e#29284#29514#0" />
+            <element signature="e#29284#29651#0" />
+            <element signature="e#29655#30049#0" />
+            <element signature="e#29655#30332#0" />
+            <element signature="e#30241#30303#1" />
+            <element signature="e#30336#30504#0" />
+            <element signature="e#30336#30769#0" />
+            <element signature="e#30678#30740#1" />
+            <element signature="e#30773#30821#0" />
+            <element signature="e#30932#31245#0" />
+            <element signature="e#30932#31414#0" />
+            <element signature="e#31418#31539#0" />
+            <element signature="e#31418#31731#0" />
+            <element signature="e#31735#31906#0" />
+            <element signature="e#31735#32040#0" />
+            <element signature="e#32044#32317#0" />
+            <element signature="e#32164#32280#1" />
+            <element signature="e#32321#32721#0" />
+            <element signature="e#32321#32943#0" />
+            <element signature="e#32947#33091#0" />
+            <element signature="e#32947#33249#0" />
+            <element signature="e#33253#33318#0" />
+            <element signature="e#33253#33453#0" />
+            <element signature="e#33457#33575#0" />
+            <element signature="e#33698#33760#0" />
+            <element signature="e#33698#33895#0" />
+            <element signature="e#33899#34050#0" />
+            <element signature="e#33899#34181#0" />
+            <element signature="e#34185#34321#0" />
+            <element signature="e#34185#34503#0" />
+            <element signature="e#34507#34710#0" />
+            <element signature="e#34507#34861#0" />
+            <element signature="e#34865#34945#0" />
+            <element signature="e#34865#35134#0" />
+            <element signature="e#35045#35083#1" />
+            <element signature="e#35138#35223#0" />
+            <element signature="e#35349#35387#0" />
+            <element signature="e#35349#35594#0" />
+            <element signature="e#35491#35552#1" />
+            <element signature="e#35597#35678#0" />
+            <element signature="e#35800#36098#0" />
+            <element signature="e#36243#36310#0" />
+            <element signature="e#36437#36552#0" />
+            <element signature="e#36437#36687#0" />
+            <element signature="e#36691#37084#0" />
+            <element signature="e#37220#37393#0" />
+            <element signature="e#37511#37724#0" />
+            <element signature="e#37511#37853#0" />
+            <element signature="e#37857#38063#0" />
+            <element signature="e#38067#38385#0" />
+            <element signature="e#38067#38531#0" />
+            <element signature="e#38535#38603#0" />
+            <element signature="e#38535#38731#0" />
+            <element signature="e#38735#38851#0" />
+            <element signature="e#38735#38990#0" />
+            <element signature="e#38994#39318#0" />
+            <element signature="e#38994#39465#0" />
+            <element signature="e#39469#39543#0" />
+            <element signature="e#39469#39672#0" />
+            <element signature="e#39676#39798#0" />
+            <element signature="e#39676#39937#0" />
+            <element signature="e#39941#40285#0" />
+            <element signature="e#39941#40432#0" />
+            <element signature="e#40436#40525#0" />
+            <element signature="e#40436#40654#0" />
+            <element signature="e#40658#40800#0" />
+            <element signature="e#40658#40939#0" />
+            <element signature="e#40943#41280#0" />
+            <element signature="e#40943#41433#0" />
+            <element signature="e#41437#41521#0" />
+            <element signature="e#41437#41656#0" />
+            <element signature="e#41660#41792#0" />
+            <element signature="e#41660#41935#0" />
+            <element signature="e#41939#41986#0" />
+            <element signature="e#41939#42278#0" />
+            <element signature="e#42282#42366#0" />
+            <element signature="e#42282#42662#0" />
+            <element signature="e#42666#44760#0" />
+            <element signature="e#42893#43411#1" />
+            <element signature="e#42937#42994#1" />
+            <element signature="e#43236#43405#1" />
+            <element signature="e#43509#44169#1" />
+            <element signature="e#43695#44142#1" />
+            <element signature="e#43740#43771#1" />
+            <element signature="e#43908#43945#1" />
+            <element signature="e#44205#44742#1" />
+            <element signature="e#44424#44715#1" />
+            <element signature="e#44764#45014#0" />
+            <element signature="e#44916#44956#1" />
+            <element signature="e#44962#44993#1" />
+            <element signature="e#45136#45197#0" />
+            <element signature="e#45136#45472#0" />
+            <element signature="e#45269#45295#1" />
+            <element signature="e#45317#45344#1" />
+            <element signature="e#45390#45417#1" />
+            <element signature="e#45476#45523#0" />
+            <element signature="e#45476#45767#0" />
+            <element signature="e#45771#45867#0" />
+            <element signature="e#45771#48915#0" />
+            <element signature="e#45996#47322#1" />
+            <element signature="e#46022#46278#1" />
+            <element signature="e#46113#46190#0" />
+            <element signature="e#46284#46338#1" />
+            <element signature="e#46682#47166#1" />
+            <element signature="e#46692#46761#0" />
+            <element signature="e#47190#47247#1" />
+            <element signature="e#47271#47316#1" />
+            <element signature="e#47328#48911#1" />
+            <element signature="e#47498#48083#1" />
+            <element signature="e#47844#48042#1" />
+            <element signature="e#48108#48217#1" />
+            <element signature="e#48395#48905#1" />
+            <element signature="e#48512#48897#1" />
+            <element signature="e#48919#49008#0" />
+            <element signature="e#48919#49628#0" />
+            <element signature="e#49298#49365#1" />
+            <element signature="e#49471#49624#1" />
+            <element signature="e#49632#50226#0" />
+            <element signature="e#49783#50009#1" />
+            <element signature="e#50031#50203#1" />
+            <element signature="e#50230#50335#0" />
+            <element signature="e#50441#50686#0" />
+            <element signature="e#50441#51260#0" />
+            <element signature="e#51045#51156#0" />
+            <element signature="e#51179#51231#0" />
+            <element signature="e#51264#51372#0" />
+            <element signature="e#51264#52101#0" />
+            <element signature="e#51465#51558#0" />
+            <element signature="e#51879#51963#1" />
+            <element signature="e#52019#52081#1" />
+            <element signature="e#52105#52180#0" />
+            <element signature="e#52105#53008#0" />
+            <element signature="e#52454#52704#1" />
+            <element signature="e#52775#52976#1" />
+            <element signature="e#53012#53079#0" />
+            <element signature="e#53174#53252#0" />
+            <element signature="e#53174#53389#0" />
+            <element signature="e#53393#53631#0" />
+            <element signature="e#53393#53837#0" />
+            <element signature="e#53727#53766#1" />
+            <element signature="e#53772#53816#1" />
+            <element signature="e#53841#53946#0" />
+            <element signature="e#54039#54107#0" />
+            <element signature="e#54186#54276#0" />
+            <element signature="e#54186#54399#0" />
+            <element signature="e#54403#54481#0" />
+            <element signature="e#54578#54632#0" />
+            <element signature="e#54578#54771#0" />
+            <element signature="e#54775#55125#0" />
+            <element signature="e#54775#55281#0" />
+            <element signature="e#55285#55618#0" />
+            <element signature="e#55285#55960#0" />
+            <element signature="e#55752#55879#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.0/hbase-client-1.3.0-sources.jar!/org/apache/hadoop/hbase/client/HBaseAdmin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32142">
+          <caret line="1645" column="65" selection-start-line="1645" selection-start-column="48" selection-end-line="1645" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.0/hbase-client-1.3.0-sources.jar!/org/apache/hadoop/hbase/HTableDescriptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5720">
+          <caret line="318" column="57" selection-start-line="318" selection-start-column="57" selection-end-line="318" selection-end-column="57" />
+          <folding>
+            <element signature="e#12031#12453#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.0/hbase-client-1.3.0-sources.jar!/org/apache/hadoop/hbase/client/Delete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="82" column="29" selection-start-line="82" selection-start-column="29" selection-end-line="82" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-common/1.3.0/hbase-common-1.3.0.jar!/org/apache/hadoop/hbase/CellUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="61" column="25" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-server/1.3.0/hbase-server-1.3.0.jar!/org/apache/hadoop/hbase/mapred/TableReduce.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-common/1.3.0/hbase-common-1.3.0.jar!/org/apache/hadoop/hbase/io/ImmutableBytesWritable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.5.1/hadoop-mapreduce-client-core-2.5.1.jar!/org/apache/hadoop/mapreduce/Mapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.3.0/hbase-client-1.3.0-sources.jar!/org/apache/hadoop/hbase/client/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-server/1.3.0/hbase-server-1.3.0.jar!/org/apache/hadoop/hbase/mapreduce/TableMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-server/1.3.0/hbase-server-1.3.0.jar!/org/apache/hadoop/hbase/mapreduce/TableReducer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.5.1/hadoop-mapreduce-client-core-2.5.1.jar!/org/apache/hadoop/mapreduce/Reducer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="17" column="54" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstaredu/hbasemr/ReadLoveMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstaredu/hbase/HbaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="173" selection-start-line="173" selection-end-line="173" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.5.1/hadoop-common-2.5.1.jar!/org/apache/hadoop/conf/Configuration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-common/1.3.0/hbase-common-1.3.0.jar!/org/apache/hadoop/hbase/HBaseConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstaredu/hbasemr/WriteLoveReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itstaredu/hbasemr/LoveDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#run#0;class#LoveDriver#0" />
+            <element signature="e#1424#1425#0" expanded="true" />
+            <element signature="e#1492#1493#0" expanded="true" />
+            <element signature="e#1530#1531#0" expanded="true" />
+            <element signature="e#1562#1563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>hadoop-common-2.8.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HbaseTest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: asm:asm:3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

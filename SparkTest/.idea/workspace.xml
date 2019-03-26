@@ -1,0 +1,1124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83eb82e1-c982-461b-84b4-6917d16fcd35" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/itstaredu/spark08/KafkaDirectWordCount.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="22" column="77" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
+              <folding>
+                <element signature="e#31#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/itstaredu/spark08/KafkaWordCount.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka-0-8_2.11/2.2.0/spark-streaming-kafka-0-8_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/kafka/KafkaUtils.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="433" column="25" lean-forward="true" selection-start-line="433" selection-start-column="25" selection-end-line="433" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="72" column="15" selection-start-line="72" selection-start-column="15" selection-end-line="72" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka-0-8_2.11/2.2.0/spark-streaming-kafka-0-8_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/kafka/KafkaCluster.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+              <folding>
+                <element signature="e#2154#2254#0" />
+                <element signature="e#2181#2238#0" />
+                <element signature="e#2335#2427#0" />
+                <element signature="e#2586#2601#0" />
+                <element signature="e#2766#3425#0" />
+                <element signature="e#2878#2953#0" />
+                <element signature="e#3035#3406#0" />
+                <element signature="e#3165#3258#0" />
+                <element signature="e#3267#3400#0" />
+                <element signature="e#3320#3392#0" />
+                <element signature="e#3429#4418#0" />
+                <element signature="e#3694#4403#0" />
+                <element signature="e#3757#4099#0" />
+                <element signature="e#3818#4091#0" />
+                <element signature="e#3946#4045#0" />
+                <element signature="e#3974#4033#0" />
+                <element signature="e#4051#4081#0" />
+                <element signature="e#4165#4199#0" />
+                <element signature="e#4205#4397#0" />
+                <element signature="e#4422#4733#0" />
+                <element signature="e#4545#4729#0" />
+                <element signature="e#4568#4723#0" />
+                <element signature="e#4625#4715#0" />
+                <element signature="e#4737#5551#0" />
+                <element signature="e#4854#4932#0" />
+                <element signature="e#5014#5532#0" />
+                <element signature="e#5206#5263#0" />
+                <element signature="e#5269#5526#0" />
+                <element signature="e#5296#5518#0" />
+                <element signature="e#5555#5575#0" />
+                <element signature="e#6154#6493#0" />
+                <element signature="e#6368#6489#0" />
+                <element signature="e#6387#6483#0" />
+                <element signature="e#6497#6621#0" />
+                <element signature="e#6576#6621#0" />
+                <element signature="e#6625#8468#0" />
+                <element signature="e#6858#8464#0" />
+                <element signature="e#7115#8301#0" />
+                <element signature="e#7291#7393#0" />
+                <element signature="e#7581#8193#0" />
+                <element signature="e#7642#8183#0" />
+                <element signature="e#7728#8091#0" />
+                <element signature="e#7770#7928#0" />
+                <element signature="e#7820#7912#0" />
+                <element signature="e#7934#8077#0" />
+                <element signature="e#7978#8061#0" />
+                <element signature="e#8097#8171#0" />
+                <element signature="e#8251#8293#0" />
+                <element signature="e#8472#8494#0" />
+                <element signature="e#8802#8909#0" />
+                <element signature="e#9141#9486#0" />
+                <element signature="e#9412#9482#0" />
+                <element signature="e#9431#9476#0" />
+                <element signature="e#9490#9597#0" />
+                <element signature="e#9861#11014#0" />
+                <element signature="e#10303#10857#0" />
+                <element signature="e#10477#10757#0" />
+                <element signature="e#10536#10749#0" />
+                <element signature="e#10618#10663#0" />
+                <element signature="e#10669#10739#0" />
+                <element signature="e#10813#10851#0" />
+                <element signature="e#11018#11125#0" />
+                <element signature="e#11342#11669#0" />
+                <element signature="e#11547#11600#0" />
+                <element signature="e#11673#11780#0" />
+                <element signature="e#12026#13147#0" />
+                <element signature="e#12473#13000#0" />
+                <element signature="e#12649#12900#0" />
+                <element signature="e#12708#12892#0" />
+                <element signature="e#12767#12812#0" />
+                <element signature="e#12818#12882#0" />
+                <element signature="e#12956#12994#0" />
+                <element signature="e#13151#13648#0" />
+                <element signature="e#13356#13644#0" />
+                <element signature="e#13592#13630#0" />
+                <element signature="e#13686#15802#1" />
+                <element signature="e#13727#13954#0" />
+                <element signature="e#13867#13950#0" />
+                <element signature="e#14024#14290#0" />
+                <element signature="e#14416#14694#0" />
+                <element signature="e#14485#14690#0" />
+                <element signature="e#14548#14655#0" />
+                <element signature="e#14726#15800#1" />
+                <element signature="e#14732#14905#0" />
+                <element signature="e#14732#15796#0" />
+                <element signature="e#15212#15307#0" />
+                <element signature="e#15237#15306#0" />
+                <element signature="e#15542#15585#0" />
+                <element signature="e#15646#15742#0" />
+                <element signature="e#15688#15734#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>creatDa</find>
+      <find>sparkSession</find>
+      <find>kafkaParams</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>session</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/SparkWordCount.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/SparkWc.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/SparkWc.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark/SparkWc.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark01/SparkWc.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark02/UrlCount.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark02/UrlGroupCount.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark02/UrlParCount.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark03/JdbcRDDDemo.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark03/UrlGroupCount1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark04/MySort.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark04/MySort3.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark04/MySort2.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark05/SqlTest2.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark05/SqlTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark05/JoinDemo1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark05/JoinDemo.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark06/JdbcSource.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark05/SqlWordCount.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark06/CsvSource.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark06/ParquetDemo.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark06/JdbcSource1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark06/JsonSource.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark07/WordCount.scala" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark07/KafkaWordCount.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark08/KafkaWordCount.scala" />
+        <option value="$PROJECT_DIR$/readme" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark08/StateKafkaWC.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/itstaredu/spark08/KafkaDirectWordCount.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SparkTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SparkTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="itstaredu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="itstaredu" type="462c0819:PsiDirectoryNode" />
+              <item name="spark07" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="itstaredu" type="462c0819:PsiDirectoryNode" />
+              <item name="spark08" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.spark:spark-core_2.11:2.2.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.spark:spark-core_2.11:2.2.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="spark-core_2.11-2.2.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.spark:spark-core_2.11:2.2.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="spark-core_2.11-2.2.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.spark:spark-core_2.11:2.2.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="spark-core_2.11-2.2.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.spark:spark-core_2.11:2.2.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="spark-core_2.11-2.2.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.spark:spark-streaming-kafka-0-8_2.11:2.2.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.spark:spark-streaming-kafka-0-8_2.11:2.2.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="spark-streaming-kafka-0-8_2.11-2.2.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.spark:spark-streaming-kafka-0-8_2.11:2.2.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="spark-streaming-kafka-0-8_2.11-2.2.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.spark:spark-streaming-kafka-0-8_2.11:2.2.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="spark-streaming-kafka-0-8_2.11-2.2.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.spark:spark-streaming_2.11:2.2.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.spark:spark-streaming_2.11:2.2.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="spark-streaming_2.11-2.2.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.spark:spark-streaming_2.11:2.2.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="spark-streaming_2.11-2.2.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.spark:spark-streaming_2.11:2.2.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="spark-streaming_2.11-2.2.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="streaming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.spark:spark-streaming_2.11:2.2.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="spark-streaming_2.11-2.2.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="streaming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.spark:spark-streaming_2.11:2.2.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="spark-streaming_2.11-2.2.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="streaming" type="462c0819:PsiDirectoryNode" />
+              <item name="dstream" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.scala-lang:scala-library:2.11.8" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.scala-lang:scala-library:2.11.8" type="70bed36:NamedLibraryElementNode" />
+              <item name="scala-library-2.11.8.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.scala-lang:scala-library:2.11.8" type="70bed36:NamedLibraryElementNode" />
+              <item name="scala-library-2.11.8.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.scala-lang:scala-library:2.11.8" type="70bed36:NamedLibraryElementNode" />
+              <item name="scala-library-2.11.8.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552544104487" />
+    <property name="last_opened_file_path" value="H:/项目/commerce" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.31264368" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\IDEA_workspace\HADOOP\SparkTest\src\main\scala\com\itstaredu\spark08" />
+      <recent name="E:\workspace\IDEA_workspace\HADOOP\SparkTest\src\main\scala\com\itstaredu\spark06" />
+      <recent name="E:\workspace\IDEA_workspace\HADOOP\SparkTest\src\main\scala\com\itstaredu\spark05" />
+      <recent name="E:\workspace\IDEA_workspace\HADOOP\SparkTest\src\main\scala\com\itstaredu\spark02" />
+      <recent name="E:\workspace\IDEA_workspace\HADOOP\SparkTest\src\main\scala" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.KafkaWordCount">
+    <configuration name="JdbcSource1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.itstaredu.spark06.JdbcSource1" />
+      <module name="SparkTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itstaredu.spark08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonSource" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.itstaredu.spark06.JsonSource" />
+      <module name="SparkTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itstaredu.spark06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaWordCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.itstaredu.spark08.KafkaWordCount" />
+      <module name="SparkTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itstaredu.spark08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SqlWordCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.itstaredu.spark05.SqlWordCount" />
+      <module name="SparkTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itstaredu.spark05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.itstaredu.spark07.WordCount" />
+      <module name="SparkTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itstaredu.spark08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sparkWc" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.itstaredu.spark01.SparkWc" />
+      <module name="SparkTest" />
+      <option name="PROGRAM_PARAMETERS" value="E:\spark\in E:\spark\out" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.sparkWc" />
+      <item itemvalue="Application.SqlWordCount" />
+      <item itemvalue="Application.JdbcSource1" />
+      <item itemvalue="Application.JsonSource" />
+      <item itemvalue="Application.WordCount" />
+      <item itemvalue="Application.KafkaWordCount" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KafkaWordCount" />
+        <item itemvalue="Application.WordCount" />
+        <item itemvalue="Application.JsonSource" />
+        <item itemvalue="Application.JdbcSource1" />
+        <item itemvalue="Application.SqlWordCount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83eb82e1-c982-461b-84b4-6917d16fcd35" name="Default Changelist" comment="" />
+      <created>1551936032332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551936032332</updated>
+      <workItem from="1551936036263" duration="4087000" />
+      <workItem from="1552020960109" duration="598000" />
+      <workItem from="1552110535290" duration="15946000" />
+      <workItem from="1552197790106" duration="15446000" />
+      <workItem from="1552280598689" duration="5544000" />
+      <workItem from="1552287055623" duration="7038000" />
+      <workItem from="1552361975766" duration="6308000" />
+      <workItem from="1552446890949" duration="7545000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="62512000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="688" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14216478" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46858168" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.15957446" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32136446" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.32983023" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32983023" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.1.1/spark-catalyst_2.11-2.1.1-sources.jar!/org/apache/spark/sql/types/Metadata.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="125" column="6" selection-start-line="125" selection-start-column="6" selection-end-line="125" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.2.0/spark-core_2.11-2.2.0-sources.jar!/org/apache/spark/deploy/SparkHadoopUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="147" column="21" selection-start-line="147" selection-start-column="21" selection-end-line="147" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.1.1/spark-sql_2.11-2.1.1-sources.jar!/org/apache/spark/sql/execution/datasources/FileScanRDD.scala" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.1.1/spark-catalyst_2.11-2.1.1-sources.jar!/org/apache/spark/sql/types/StructField.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="39" column="40" lean-forward="true" selection-start-line="35" selection-start-column="11" selection-end-line="39" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.1.1/spark-catalyst_2.11-2.1.1-sources.jar!/org/apache/spark/sql/types/StructType.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="95" column="49" selection-start-line="95" selection-start-column="11" selection-end-line="95" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/itstaredu/spark05/SqlTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="41" column="64" lean-forward="true" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="64" />
+          <folding>
+            <element signature="e#31#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.1.1/spark-catalyst_2.11-2.1.1-sources.jar!/org/apache/spark/sql/catalyst/plans/joinTypes.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/itstaredu/spark05/SqlTest2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="29" column="44" lean-forward="true" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+          <folding>
+            <element signature="e#31#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/itstaredu/spark05/JoinDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar!/scala/collection/Map.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar!/scala/Predef.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.1.1/spark-sql_2.11-2.1.1-sources.jar!/org/apache/spark/sql/SparkSession.scala" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.1.1/spark-catalyst_2.11-2.1.1-sources.jar!/org/apache/spark/sql/internal/SQLConf.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.1.1/spark-catalyst_2.11-2.1.1-sources.jar!/org/apache/spark/sql/internal/StaticSQLConf.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="34" column="42" lean-forward="true" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.1.1/spark-sql_2.11-2.1.1-sources.jar!/org/apache/spark/sql/internal/SessionState.scala" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.1.1/spark-sql_2.11-2.1.1-sources.jar!/org/apache/spark/sql/DataFrameReader.scala" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.1.1/spark-sql_2.11-2.1.1-sources.jar!/org/apache/spark/sql/DataFrameWriter.scala" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.1.1/spark-sql_2.11-2.1.1-sources.jar!/org/apache/spark/sql/execution/datasources/FileFormatWriter.scala" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.1.1/spark-sql_2.11-2.1.1-sources.jar!/org/apache/spark/sql/Dataset.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/itstaredu/spark05/JoinDemo1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="45" column="6" lean-forward="true" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/itstaredu/spark05/SqlWordCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/itstaredu/spark06/WordCount.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/itstaredu/spark06/CsvSource.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="15" column="15" selection-start-line="15" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/itstaredu/spark06/ParquetDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/itstaredu/spark06/JdbcSource.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="21" selection-start-line="21" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.4.0/spark-streaming_2.11-2.4.0.jar!/org/apache/spark/streaming/StreamingContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/itstaredu/spark06/JsonSource.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/itstaredu/spark06/JdbcSource1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka-0-8_2.11/2.2.0/spark-streaming-kafka-0-8_2.11-2.2.0.jar!/org/apache/spark/streaming/kafka/KafkaUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.2.0/spark-core_2.11-2.2.0-sources.jar!/org/apache/spark/storage/StorageLevel.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="162" column="6" selection-start-line="162" selection-start-column="6" selection-end-line="162" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/Predef.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="89" column="7" selection-start-line="89" selection-start-column="7" selection-end-line="89" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.2.0/spark-streaming_2.11-2.2.0.jar!/org/apache/spark/streaming/StreamingContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.2.0/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/ContextWaiter.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="57" column="6" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/itstaredu/spark07/KafkaWordCount.scala" />
+    <entry file="file://$PROJECT_DIR$/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/Option.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="97" column="22" selection-start-line="97" selection-start-column="22" selection-end-line="97" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/GenTraversableOnce.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="360" column="14" lean-forward="true" selection-start-line="360" selection-start-column="14" selection-end-line="360" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/TraversableOnce.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="215" column="6" selection-start-line="215" selection-start-column="6" selection-end-line="215" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.2.0/spark-core_2.11-2.2.0-sources.jar!/org/apache/spark/Partitioner.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="79" column="21" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.2.0/spark-core_2.11-2.2.0-sources.jar!/org/apache/spark/SparkContext.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="2314" lean-forward="true" selection-start-line="2314" selection-end-line="2314" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/itstaredu/spark07/WordCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="18" column="52" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="52" />
+          <folding>
+            <element signature="e#31#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/itstaredu/spark08/StateKafkaWC.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="14" />
+          <folding>
+            <element signature="e#31#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.2.0/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/dstream/PairDStreamFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="471" lean-forward="true" selection-start-line="471" selection-end-line="471" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.2.0/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/StreamingContext.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka-0-8_2.11/2.2.0/spark-streaming-kafka-0-8_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/kafka/KafkaCluster.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#2154#2254#0" />
+            <element signature="e#2181#2238#0" />
+            <element signature="e#2335#2427#0" />
+            <element signature="e#2586#2601#0" />
+            <element signature="e#2766#3425#0" />
+            <element signature="e#2878#2953#0" />
+            <element signature="e#3035#3406#0" />
+            <element signature="e#3165#3258#0" />
+            <element signature="e#3267#3400#0" />
+            <element signature="e#3320#3392#0" />
+            <element signature="e#3429#4418#0" />
+            <element signature="e#3694#4403#0" />
+            <element signature="e#3757#4099#0" />
+            <element signature="e#3818#4091#0" />
+            <element signature="e#3946#4045#0" />
+            <element signature="e#3974#4033#0" />
+            <element signature="e#4051#4081#0" />
+            <element signature="e#4165#4199#0" />
+            <element signature="e#4205#4397#0" />
+            <element signature="e#4422#4733#0" />
+            <element signature="e#4545#4729#0" />
+            <element signature="e#4568#4723#0" />
+            <element signature="e#4625#4715#0" />
+            <element signature="e#4737#5551#0" />
+            <element signature="e#4854#4932#0" />
+            <element signature="e#5014#5532#0" />
+            <element signature="e#5206#5263#0" />
+            <element signature="e#5269#5526#0" />
+            <element signature="e#5296#5518#0" />
+            <element signature="e#5555#5575#0" />
+            <element signature="e#6154#6493#0" />
+            <element signature="e#6368#6489#0" />
+            <element signature="e#6387#6483#0" />
+            <element signature="e#6497#6621#0" />
+            <element signature="e#6576#6621#0" />
+            <element signature="e#6625#8468#0" />
+            <element signature="e#6858#8464#0" />
+            <element signature="e#7115#8301#0" />
+            <element signature="e#7291#7393#0" />
+            <element signature="e#7581#8193#0" />
+            <element signature="e#7642#8183#0" />
+            <element signature="e#7728#8091#0" />
+            <element signature="e#7770#7928#0" />
+            <element signature="e#7820#7912#0" />
+            <element signature="e#7934#8077#0" />
+            <element signature="e#7978#8061#0" />
+            <element signature="e#8097#8171#0" />
+            <element signature="e#8251#8293#0" />
+            <element signature="e#8472#8494#0" />
+            <element signature="e#8802#8909#0" />
+            <element signature="e#9141#9486#0" />
+            <element signature="e#9412#9482#0" />
+            <element signature="e#9431#9476#0" />
+            <element signature="e#9490#9597#0" />
+            <element signature="e#9861#11014#0" />
+            <element signature="e#10303#10857#0" />
+            <element signature="e#10477#10757#0" />
+            <element signature="e#10536#10749#0" />
+            <element signature="e#10618#10663#0" />
+            <element signature="e#10669#10739#0" />
+            <element signature="e#10813#10851#0" />
+            <element signature="e#11018#11125#0" />
+            <element signature="e#11342#11669#0" />
+            <element signature="e#11547#11600#0" />
+            <element signature="e#11673#11780#0" />
+            <element signature="e#12026#13147#0" />
+            <element signature="e#12473#13000#0" />
+            <element signature="e#12649#12900#0" />
+            <element signature="e#12708#12892#0" />
+            <element signature="e#12767#12812#0" />
+            <element signature="e#12818#12882#0" />
+            <element signature="e#12956#12994#0" />
+            <element signature="e#13151#13648#0" />
+            <element signature="e#13356#13644#0" />
+            <element signature="e#13592#13630#0" />
+            <element signature="e#13686#15802#1" />
+            <element signature="e#13727#13954#0" />
+            <element signature="e#13867#13950#0" />
+            <element signature="e#14024#14290#0" />
+            <element signature="e#14416#14694#0" />
+            <element signature="e#14485#14690#0" />
+            <element signature="e#14548#14655#0" />
+            <element signature="e#14726#15800#1" />
+            <element signature="e#14732#14905#0" />
+            <element signature="e#14732#15796#0" />
+            <element signature="e#15212#15307#0" />
+            <element signature="e#15237#15306#0" />
+            <element signature="e#15542#15585#0" />
+            <element signature="e#15646#15742#0" />
+            <element signature="e#15688#15734#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka-0-8_2.11/2.2.0/spark-streaming-kafka-0-8_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/kafka/DirectKafkaInputDStream.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="116" column="29" lean-forward="true" selection-start-line="116" selection-start-column="29" selection-end-line="116" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka-0-8_2.11/2.2.0/spark-streaming-kafka-0-8_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/kafka/KafkaUtils.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="433" column="25" lean-forward="true" selection-start-line="433" selection-start-column="25" selection-end-line="433" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="72" column="15" selection-start-line="72" selection-start-column="15" selection-end-line="72" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/itstaredu/spark08/KafkaWordCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/itstaredu/spark08/KafkaDirectWordCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="22" column="77" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
+          <folding>
+            <element signature="e#31#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>hadoop-common-2.8.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SparkTest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31264368" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.clearspring.analytics:stream:2.7.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

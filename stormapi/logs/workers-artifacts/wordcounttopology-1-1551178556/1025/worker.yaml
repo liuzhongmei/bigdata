@@ -1,0 +1,4 @@
+worker-id: 10fad4b1-1123-4ec9-b016-9d4cb66389b0
+logs.users: []
+logs.groups: []
+topology.submitter.user: lzm

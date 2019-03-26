@@ -1,0 +1,4 @@
+com\itstaredu\wc\WordCountBolt.class
+com\itstaredu\wc\WordCountSplitBolt.class
+com\itstaredu\wc\WordCountDriver.class
+com\itstaredu\wc\WordCountSpout.class
